@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "MongoDB.Driver": "2.3.0-rc1",
+    "NETStandard.Library": "1.6.0",
+    "SchoolApp.Common": "1.0.0-*",
+    "SchoolApp.Data": "1.0.0-*"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
